@@ -1,0 +1,2 @@
+// Write like this
+Text(snapshot.data?[0].title ?? 'no data'),
